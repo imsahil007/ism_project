@@ -26,6 +26,6 @@ The apparatus will bring numerous YouTube recordings non-concurrently and distin
 
 1. Sahil (19MCMC46)
 2. Yogesh Kumar Gupta (19MCMC45)
-3. Amandeep Singh (19MCMC13)
+3. Amandeep Singh (19MCMC14)
 4. Yash Gupta (19MCMC47)
 5. Shivam Bishen (19MCMC70)
